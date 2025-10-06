@@ -1,4 +1,4 @@
-### 👋 Привет, я [Ваше Имя]!
+### 👋 Привет, я Арсений!
 
 Я Арсений.
 
@@ -22,5 +22,5 @@
 
 ### 📈 Статистика GitHub
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=<ВАШ_USERNAME>&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<ВАШ_USERNAME>&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=<sekonoko23-afk>&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<sekonoko23-afk>&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
